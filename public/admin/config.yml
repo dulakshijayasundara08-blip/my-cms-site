@@ -2,6 +2,7 @@ backend:
   name: github
   repo: dulakshijayasundara08-blip/my-cms-site
   branch: main
+  site_domain: my-cms-site-eta.vercel.app
   base_url: https://my-cms-site-eta.vercel.app
   auth_endpoint: /api/auth
 
